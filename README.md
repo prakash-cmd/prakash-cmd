@@ -65,3 +65,5 @@
 [leetcode]: https://leetcode.com/prakash-cmd
 [codechef]: https://www.codechef.com/users/prakash_cmd
 
+![snake gif](https://github.com/prakash-cmd/prakash-cmd/blob/output/github-contribution-grid-snake.svg)
+
