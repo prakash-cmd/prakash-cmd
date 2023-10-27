@@ -21,7 +21,7 @@
 
 ## Skills
 ### 📋 Languages 
-<img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> <img src="https://img.shields.io/badge/python-F54A2A?style=for-the-badge&logo=pyhton&logoColor=white" /> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
 
 
 ### 📚 Frameworks, Platforms and Libraries
@@ -46,23 +46,22 @@
 
 ### 💾 Databases
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white" /> <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
- 
 <br/>
 
 ### Stats 📊
-[![Prakash's github stats](https://github-readme-stats.vercel.app/api?username=prakash-cmd&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/prakash-cmd/github-readme-stats)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prakash-cmd&theme=tokyonight"/>
+[![Prakash's github stats](https://github-readme-stats.vercel.app/api?username=prakash-cmd&count_private=true&show_icons=true&hide_rank=false)](https://github.com/prakash-cmd/github-readme-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prakash-cmd"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakash-cmd&theme=radical&langs_count=8)](https://github.com/prakash-cmd/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakash-cmd&layout=pie)](https://github.com/prakash-cmd/github-readme-stats)
 
 
 ### Bucket List 💭
 - [ ] FAANG
 - [ ] Visit Europe
 
-[portfolio]: https://prakash-cmd.cf
+[portfolio]: https://prakash-kumar.me
 [gmail]: mailto:prakash.cmd19@gmail.com
-[linkedin]: https://linkedin.com/in/aviriash
+[linkedin]: https://linkedin.com/in/prakash-cmd
 [leetcode]: https://leetcode.com/prakash-cmd
 [codechef]: https://www.codechef.com/users/prakash_cmd
 
