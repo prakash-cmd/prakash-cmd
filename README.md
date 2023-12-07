@@ -6,7 +6,6 @@
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />][leetcode]
-[<img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />][codechef]
 
 
 🎓 Senior year Computer Science Engineer
@@ -63,7 +62,6 @@
 [gmail]: mailto:prakash.cmd19@gmail.com
 [linkedin]: https://linkedin.com/in/prakash-cmd
 [leetcode]: https://leetcode.com/prakash-cmd
-[codechef]: https://www.codechef.com/users/prakash_cmd
 
 ![snake gif](https://github.com/prakash-cmd/prakash-cmd/blob/output/github-contribution-grid-snake.svg)
 
