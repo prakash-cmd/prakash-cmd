@@ -8,11 +8,11 @@
 [<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />][leetcode]
 
 
-🎓 Senior year Computer Science Engineer
+🎓 Software Engineer
 
-🔭 Currently working in iOS & Node.js
+🔭 Currently working in AWS & Java
 
-🌱 Learning iOS, DSA and DevOps
+🌱 Learning AWS, DSA, and DevOps
 
 🚀 2022 Goals: Contribute to open-source projects
 
