@@ -61,7 +61,7 @@
 [portfolio]: https://prakash-kumar.me
 [gmail]: mailto:prakash.cmd19@gmail.com
 [linkedin]: https://linkedin.com/in/prakash-cmd
-[leetcode]: https://leetcode.com/prakash-cmd
+[leetcode]: https://leetcode.com/nagato19
 
 ![snake gif](https://github.com/prakash-cmd/prakash-cmd/blob/output/github-contribution-grid-snake.svg)
 
